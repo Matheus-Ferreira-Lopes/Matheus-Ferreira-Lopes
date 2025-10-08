@@ -46,7 +46,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 💻 Estou aprendendo **[tecnologias que está aprendendo]**
 - 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
 - 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- ✝ [Hebreus 13:5, que diz: "Nunca te deixarei, nunca te abandonarei"]
 
 ---
 
