@@ -43,7 +43,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo no SESI 427 
-- 💻 Estou aprendendo Estou aprendendo sobre desenvolvimento de sistemas
+- 💻 Estou aprendendo sobre desenvolvimento de sistemas
 - 🎯 Meu objetivo é Garantir um futuro muito bom e conseguir crescer ainda mais no mercado de trabalho, e o mais importante, melhorar cada vez mais a cada dia que passa
 - 📚 Gosto de aprender sobre Desenvolvimento de sistemas
 - ✝ ["Entrega o teu caminho ao Senhor, confia nele, e o mais ele fará/  Salmo 37,5"]
